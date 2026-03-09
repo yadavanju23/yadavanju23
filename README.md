@@ -33,9 +33,10 @@ Currently, I am learning and building projects using **LangChain, LangGraph, and
 **Programming & Development**
 
 * Python
+* PHP
+* Wordpress
 * JavaScript
-* HTML
-* CSS
+
 
 **AI & LLM Tools**
 
